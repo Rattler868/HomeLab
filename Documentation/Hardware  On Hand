@@ -1,0 +1,47 @@
+# Hardware on Hand
+
+Last October, I built my first build.
+
+Desktop 1 (Main Workstation)
+Motherboard: ASUS B650E Max Gaming Wifi
+CPU: AMD Ryzen 5 7600X; 6 cores/12 threads; 4.7 GHz boost clock
+RAM: 64 GB DDR5 RAM
+GPU: NVIDIA GeForce RTX 3050
+Storage: Samsung SSD 990 Pro 2TB NVMe M.2
+OS: Windows 11 Pro (Duel boot with Windows Server 2022 that will host the Home Lab)
+
+Desktop 2 (Secondary Workstation)
+Brand: Apple
+Model: Mac Mini (M1, 2020)
+CPU: Apple M1 chip
+RAM: 8 GB 
+Storage: 256 GB SSD
+OS: macOS 
+
+Laptop 1 (Main Laptop)  
+Brand: Dell
+Model: 16 Plus DB16255
+CPU: AMD Ryzen 7  350 w/ Radeon 860M
+RAM: 32 GB
+GPU: AMD Radeon 860M
+Storage: 1 TB NVMe M.2 SSD
+OS: Windows 11 Pro
+Display: 16-inch, 2560 x 1600 resolution, 165 Hz refresh rate
+Touchscreen: Yes
+
+Laptop 2 (Secondary Laptop)
+Brand: Apple
+Model: MacBook Pro (M1, 2020)
+CPU: Apple M1 chip
+RAM: 16 GB
+Storage: 512 GB SSD
+OS: macOS
+Display: 13.3-inch Retina display
+
+NAS 
+Brand: Ugreen DXP4800 Plus 4-Bay NAS Enclosure
+CPU: Intel Celeron N5105 
+RAM: 8 GB DDR4 RAM 
+Storage: Currently using 3 x 2 TB Western Digital Red Plus NAS Hard Drives
+Storage: 2 x MVME M.2 SSDs at 1 TB each
+Raid: RAID 5 for the hard drives, and RAID 1 for the SSDs

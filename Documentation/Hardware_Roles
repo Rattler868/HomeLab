@@ -1,0 +1,38 @@
+# ** Device Roles in THE SNAKE PIT**
+
+## **Desktop 1 — Main Desktop (Windows 11 + Windows Server Dual‑Boot)**
+Primary Hyper‑V Host — runs all core VMs
+SOC / SIEM Workload Machine — Windows Server 2022 environment
+VM Testing + Malware Analysis Node
+High‑performance workstation for scripting, PowerShell, and lab automation
+Local log collector for Sysmon, Windows logs, and agent testing
+
+## **Desktop 2 — Mac mini (M1)
+macOS Testing Environment
+Documentation + GitHub Workstation
+Remote Management Node (SSH/RDP/VNC into server + NAS)
+Lightweight Automation Device (zsh, Python, rsync)
+Cross‑platform compatibility testing
+
+## Laptop 1 — Dell 16 Plus (Main Laptop)
+Mobile Workstation for school, travel, and remote lab access
+Remote Hyper‑V Manager (connects to your server from anywhere)
+Scripting + Development Machine
+Portable SOC Tools Node (Wireshark, Splunk UF, Wazuh agent)
+NAS Remote Access Client for file sync and VM exports
+
+## Laptop 2 — MacBook Pro (M1 Pro)
+Secondary macOS Workstation
+Automation + Scripting Device
+Documentation + GitHub Machine
+Cross‑platform Testing Node
+Remote Access Node for NAS + Hyper‑V
+
+## NAS — UGREEN DXP4800 Plus
+Central VM Storage (SMB or iSCSI)
+ISO Repository for OS images
+Backup Target for VM exports and snapshots
+Log Archive for SIEM/Wazuh/Sysmon logs
+Docker Host (Pi‑hole, Home Assistant, etc.)
+Remote File Server for school → home workflows
+Script Repository for PowerShell/Bash automation

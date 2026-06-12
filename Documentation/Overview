@@ -1,3 +1,9 @@
 # Overview of creating my Home Lab
 
-This will be my first attemp at creating a creating a home lap.  Using the knowledge I have
+**What will my Home Lab do? ** 
+
+1. Build VMs
+
+2. I want to merge Active Directory, SQL, and create a SOC.  
+
+3. Create users, databases, and SEIM logs.
